@@ -1,2 +1,2 @@
-# Estad-stica-descriptiva-en-R
+# Estadistica-descriptiva-en-R
 Estadística descriptiva para recursos naturales
